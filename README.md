@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-    ## About API Absen
-    
-    <ul>
+## About API Absen
+
+<ul>
         <li>Git Clone https://github.com/ItsMyEyes/Api-Absen-Dan-Pulang-Laravel-WFH.git</li>
         <li>Composer Update</li>
         <li>Setting on Config/database.php</li>
